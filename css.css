@@ -4,16 +4,16 @@ body {
 }
 .section {
     
-    border: 2px solid black;
+    border: 3px solid black;
     margin: 10px;
     background-color: #d6d6d6;
 }
 h2 {
     color: #212121;
     border: 2px solid black;
-    width: 100px;
+    width: 30%;
     margin-top: -2px;
-    margin-left: 66%;
+    margin-left: 70%;
    
 }
 
